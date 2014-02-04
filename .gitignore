@@ -15,3 +15,14 @@
 *.webm
 *.avi
 *.tar*
+
+# Crimson Editor
+*.prj
+
+# Netbeans Project Files
+/nbproject
+
+
+# Smarty
+/templates_c
+/cache

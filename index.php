@@ -241,7 +241,7 @@ require_once('genlib.php');
 
 		    <tr>
 			<td>
-			<a href="http://c-newey.homenet.org">http://c-newey.homenet.org</a>
+			<a href="http://http://chris-newey.christchurchlye.org.uk">http://http://chris-newey.christchurchlye.org.uk</a>
 			&nbsp; &nbsp; (This site)
 			</td>
 			<td>
