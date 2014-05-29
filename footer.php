@@ -23,7 +23,7 @@
 			Last Modified :
 			<?php
 				$date = new DateTime(date('Y-m-d'));
-				$date->modify('-2 day');
+				$date->modify('-3 day');
 				echo $date->format('d/m/Y');
 			?>
 
