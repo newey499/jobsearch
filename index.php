@@ -49,7 +49,7 @@ require_once('genlib.php');
 
 	<h2>
 		Email 
-		<a href="sendemail.php">Chris Newey</a>
+		<a href="sendemail.php">Chris Newey (newey499@hotmail.com)</a>
 	</h2>
 
 
@@ -66,14 +66,21 @@ require_once('genlib.php');
 		An I.T. professional with over 25 years of experience in commercial software development,
 		15 of which have been as a contract analyst/programmer.
 		</p>
+		
 		<p>
-		Experience ranges from systems level programming through applications development,
-		with particular experience of warehousing and logistics applications coupled with
-		experience of Internet and Android software development.
+		Experience ranges from systems level programming through applications development, with
+	  particular experience of warehousing and logistics applications. 
 		</p>
+		
 		<p>
-		Articulate and educated to degree level,
-		looking for a role that will utilise the skills which have been built up to their potential.
+		A broad knowledge of networking and data systems. A record of fulfilling responsibilities in a
+		professional and efficient manner, self motivated with proven experience of working within and
+		supervising teams.
+		</p>
+		
+		<p>
+		Articulate and educated to degree level, looking for a role that will utilise the skills which 
+		have been built up to their potential.		
 		</p>
 
 	</article>
