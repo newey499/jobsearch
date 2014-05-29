@@ -290,7 +290,7 @@ require_once('genlib.php');
 
 		<p>
 		Since becoming unemployed in January 2008 I have kept myself busy studying an Open University
-		B.A in History. I spent 2 months during 2010 with Thomas Dudley Ltd, on a work experience
+		B.A in History which I have been awarded. I spent 2 months during 2010 with Thomas Dudley Ltd, on a work experience
 		placement where I undertook the following tasks:
 		</p>
 
@@ -446,7 +446,7 @@ require_once('genlib.php');
 			<ul>
 
 			<li>
-				Open University (Current).
+				Open University.
 			</li>
 
 			<li>
@@ -474,15 +474,19 @@ require_once('genlib.php');
 			<ul>
 
 			<li>
-				B.Sc -  Computer Science 2:1.
+				B.Sc -  Computer Science 2:1
 			</li>
 
 			<li>
-				“A” Levels: Pure Maths, Applied Maths, Physics, English Language.
+				B.A. -  History
+			</li>			
+			
+			<li>
+			  A Levels: Pure Maths, Applied Maths, Physics, English Language.
 			</li>
 
 			<li>
-				“O” Levels: English Language, English Literature, Maths, Physics, Chemistry, Biology,
+				O Levels: English Language, English Literature, Maths, Physics, Chemistry, Biology,
 				Human Biology.
 			</li>
 
@@ -496,8 +500,6 @@ require_once('genlib.php');
 		<h2>Personal Interests</h2>
 
 		<p>
-		I am in the final year of reading for an Open University B.A. History degree.
-		<br />
 		During the winter months I play Hockey as a Goalkeeper for a Midland League side.
 		<br />
 		I enjoy reading political and military history and playing Chess.

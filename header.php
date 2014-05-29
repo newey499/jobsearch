@@ -11,7 +11,7 @@
 	-->
 	<h1>Resumé</h1>
 
-	<h2>Chris Newey B.Sc.</h2>
+	<h2>Chris Newey B.Sc. Computer Science B.A. History</h2>
 
 </header>
 
